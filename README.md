@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Hankar-rgb
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, CSS and JavaScript
-- 💞️ I’m looking to collaborate on nothing special at the time
-- 📫 How to reach me on twitter @deluchtfietser
+
